@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "TaN1f09bB5WsGGKt8qAVKGnKbprZNDQ1nj6LYOvfcAE=",
+  "Source": "Web",
+  "BasePath": "_content/Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Web\\wwwroot",
+      "Source": "Web",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\JavaScriptTutorial\\StoreProject\\Code Backup2\\Code Backup\\Backend\\Store\\Src\\Web\\wwwroot\\",
+      "BasePath": "_content/Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ASUS\\Desktop\\JavaScriptTutorial\\StoreProject\\Code Backup2\\Code Backup\\Backend\\Store\\Src\\Web\\wwwroot\\images\\Products\\image.jpg",
+      "SourceId": "Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\JavaScriptTutorial\\StoreProject\\Code Backup2\\Code Backup\\Backend\\Store\\Src\\Web\\wwwroot\\",
+      "BasePath": "_content/Web",
+      "RelativePath": "images/Products/image.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\image.jpg"
+    }
+  ]
+}
